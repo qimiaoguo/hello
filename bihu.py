@@ -92,5 +92,5 @@ def get_unlogin_article(art_id):
 
 #进行登录，将星号替换成你的登录邮箱和密码即可
 #密码发到币乎之前会被加密，浏览器post的时候看postbody里面的password填入这儿，注意这里使用密码登陆而不是验证码
-login("18616854876","02eba44686463071dc1d4b209c90c35501579059326647bae9c0c17de8f8173a")
+login("yourphone","02eba44686463071dc1d4b209c90c35501579059326647bae9c0c17de8f8173x")
 
